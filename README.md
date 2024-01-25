@@ -1,5 +1,5 @@
 # REST-API
-A REST-API built using NodeJS, ExpressJS, TypeScript & MongoDB
+A REST-API built using **NodeJS, ExpressJS, TypeScript & MongoDB**
 
 To clone the repository:
 
