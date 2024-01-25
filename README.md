@@ -9,9 +9,9 @@ Install the npm packages using the command:
 
 `npm i`
 
-To set your database locally you need to create a MongoDB account and initialise a local database, then:
+To set your database locally you need to create a MongoDB account and initialize a local database, then:
 
-`const MONGO_URL = 'ENTER YOUR PRIVATE MongoDB URL HERE';`
+`const MONGO_URL = 'ENTER YOUR PRIVATE MongoDB URI HERE';`
 
 To run the app, simply type:
 
