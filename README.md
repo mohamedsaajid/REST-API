@@ -7,7 +7,7 @@ To clone the repository, paste the following into your terminal:
 
 Install the npm packages using the command:
 
-`npm i`
+`npm install`
 
 To set your database locally you need to create a MongoDB account and initialize a local database, then:
 
